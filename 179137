@@ -1,0 +1,79 @@
+<html>
+	
+		
+		
+	<head>
+		  <link rel="stylesheet" type="text/css" href="style.css">
+		  	
+		  	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		  		
+		  		
+<style>
+
+</style>
+
+
+
+
+
+      
+
+
+		  	
+	</head>
+	
+	
+	
+	
+	
+	
+
+
+
+</center>
+	<body>
+	
+
+<div class="container"> 
+  <!-- Example row of columns -->
+  
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <h3>Herix Clan</h3>
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="col-md-3 col-sm-3 col-xs-6"> <a href="staff.html" class="btn btn-sm animated-button victoria-one">Staff</a> </div>
+    <div class="col-md-3 col-sm-3 col-xs-6"> <a href="#" class="btn btn-sm animated-button victoria-two">Info</a> </div>
+    <div class="col-md-3 col-sm-3 col-xs-6"> <a href="events.html" class="btn btn-sm animated-button victoria-three">Events</a> </div>
+    <div class="col-md-3 col-sm-3 col-xs-6"> <a href="herix.html" class="btn btn-sm animated-button victoria-four">Herix</a> </div>
+  </div>
+  
+  
+    
+  </footer>
+
+
+
+
+<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+<h1>BEST<br>MCPE<br>CLAN</h1>
+
+
+
+<br>
+	<br>
+		
+<center>
+<h2 data-shadow='Herix News'>Herix<br>News</h2>
+</center>
+
+
+
+<br>
+	<br>
+		
+
+	</body>
+	</html>
